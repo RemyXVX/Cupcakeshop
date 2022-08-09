@@ -1,0 +1,38 @@
+body
+{
+  background-color: #F65A83;
+  text-align: center;
+}
+img{
+  max-height: 300px;
+  max-width: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.subtitle
+{
+  font-size: 20px;
+  font-family: cursive;
+  color: #FFE898;
+}
+h1{
+  font-family: cursive;
+  color: #FF87B2;
+}
+.smalltitle{
+
+  font-size: 15px;
+  font-family: cursive;
+  color: #FFE898
+}
+ul{
+  font-size: 15px;
+  font-color: #FFF8BC;
+  list-style: none;
+}
+.best
+{
+  font-size: 25px;
+  font-weight: bolder;
+  color: #FFF8BC;
+}
