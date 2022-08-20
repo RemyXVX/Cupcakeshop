@@ -11,7 +11,7 @@
 * GitBash
 
 ## Description
-_{A Website to display what we have learn thus far. Apply HTML and CSS to style the web page.}_
+_Apply what I learn about CSS and using it to style the webpage_
 
 ## Setup/Installation Requirements
 * _Copy/clone repo on your device_
@@ -24,4 +24,4 @@ _{A Website to display what we have learn thus far. Apply HTML and CSS to style 
 
 ## License
 * _MIT_
-Copyright (c) _8/10/22_ _Remy Flores_
+Copyright (c) _8/8/22_ _Remy Flores_
